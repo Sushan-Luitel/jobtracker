@@ -17,7 +17,7 @@ A clean, full-stack web application to track job applications through different 
 - **Toast Notifications** — Success and error feedback
 - **Loading States** — Spinners and empty states with helpful messages
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer    | Technology |
 |----------|-----------|
@@ -208,7 +208,7 @@ Delete an application. Returns `200` with `{ message, id }`.
 
 `GET /health` → `{ "status": "ok", "timestamp": "..." }`
 
-## 🗄 Database Schema
+##  Database Schema
 
 ```sql
 CREATE TYPE job_type_enum AS ENUM ('Internship', 'Full-time', 'Part-time');
