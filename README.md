@@ -34,7 +34,7 @@ A clean, full-stack web application to track job applications through different 
 - npm 9+
 - PostgreSQL 14+ (or Docker)
 
-##  Quick Start with Docker (Recommended)
+##  Quick Start with Docker 
 
 ```bash
 # Clone the repo
