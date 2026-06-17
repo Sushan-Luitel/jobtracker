@@ -5,9 +5,12 @@ import './globals.css';
 // Initialize the Inter font
 const inter = Inter({ subsets: ['latin'] });
 
+const appTitle = 'Job Tracker';
+const appDescription = 'Track your job applications through every stage of the hiring process';
+
 export const metadata: Metadata = {
-  title: 'Job Tracker',
-  description: 'Track your job applications through every stage of the hiring process',
+  title: appTitle,
+  description: appDescription,
 };
 
 export default function RootLayout({
