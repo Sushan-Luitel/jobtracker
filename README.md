@@ -2,7 +2,11 @@
 
 A clean, full-stack web application to track job applications through different hiring stages.
 
-![Job Tracker Screenshot](https://via.placeholder.com/1200x630/6366f1/ffffff?text=Job+Tracker+App)
+<img width="1568" height="1492" alt="Screenshot 2026-06-17 203752" src="https://github.com/user-attachments/assets/eab96b32-b6e2-4fbb-8984-1547827123d5" />
+<img width="1132" height="822" alt="Screenshot 2026-06-17 203805" src="https://github.com/user-attachments/assets/f5e85e47-02dc-414c-8387-c0ffcca826b3" />
+<img width="1326" height="1090" alt="Screenshot 2026-06-17 203822" src="https://github.com/user-attachments/assets/59d7cbfc-70c3-4d89-9c15-41d9d326e49f" />
+
+
 
 ##  Features
 
