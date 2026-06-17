@@ -105,7 +105,7 @@ npm run dev
 # Runs on http://localhost:3000
 ```
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 cd backend
@@ -129,7 +129,7 @@ PASS src/__tests__/applications.test.ts
 Tests: 8 passed, 8 total
 ```
 
-## ⚙️ Environment Variables
+##  Environment Variables
 
 ### Backend (`backend/.env`)
 
@@ -146,7 +146,7 @@ Tests: 8 passed, 8 total
 |-----------------------|-------------------------|--------------------------|
 | `NEXT_PUBLIC_API_URL` | URL of the backend API  | `http://localhost:4000`  |
 
-## 📡 REST API Documentation
+##  REST API Documentation
 
 Base URL: `http://localhost:4000`
 
