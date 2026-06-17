@@ -1,10 +1,10 @@
-# 📋 Job Tracker
+#  Job Tracker
 
 A clean, full-stack web application to track job applications through different hiring stages.
 
 ![Job Tracker Screenshot](https://via.placeholder.com/1200x630/6366f1/ffffff?text=Job+Tracker+App)
 
-## ✨ Features
+##  Features
 
 - **Application List** — View all applications with company, role, type, status, and applied date
 - **Add Application** — Create new applications with a validated form
@@ -28,13 +28,13 @@ A clean, full-stack web application to track job applications through different 
 | Testing  | Jest + ts-jest (8 unit tests) |
 | DevOps   | Docker + docker-compose |
 
-## 📦 Prerequisites
+##  Prerequisites
 
 - Node.js 18+
 - npm 9+
 - PostgreSQL 14+ (or Docker)
 
-## 🚀 Quick Start with Docker (Recommended)
+##  Quick Start with Docker (Recommended)
 
 ```bash
 # Clone the repo
@@ -49,7 +49,7 @@ Then open http://localhost:3000.
 
 ---
 
-## 🔧 Manual Setup
+##  Manual Setup
 
 ### 1. Clone and prepare
 
@@ -229,7 +229,7 @@ CREATE TABLE applications (
 
 Auto-updating `updated_at` is handled by a PostgreSQL trigger. Indexes on `status`, `applied_date`, and a GIN index on `company_name` for fast search.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 jobtracker/
@@ -277,12 +277,12 @@ jobtracker/
     └── package.json
 ```
 
-## 🏆 Bonus Features Implemented
+##  Bonus Features Implemented
 
-- ✅ Search by company name or job title
-- ✅ Pagination with page/limit controls
-- ✅ Loading states and error messages with retry
-- ✅ Unit tests (8 tests, all passing)
-- ✅ Docker + docker-compose.yml
-- ✅ Optimistic UI updates (delete is instant)
-- ✅ TypeScript strict mode (both frontend and backend)
+-  Search by company name or job title
+-  Pagination with page/limit controls
+-  Loading states and error messages with retry
+-  Unit tests (8 tests, all passing)
+-  Docker + docker-compose.yml
+-  Optimistic UI updates (delete is instant)
+-  TypeScript strict mode (both frontend and backend)
