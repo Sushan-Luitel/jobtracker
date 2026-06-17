@@ -54,7 +54,7 @@ Then open http://localhost:3000.
 ### 1. Clone and prepare
 
 ```bash
-git clone https://github.com/yourusername/jobtracker.git
+git clone https://github.com/sushan-luitel/jobtracker.git
 cd jobtracker
 ```
 
