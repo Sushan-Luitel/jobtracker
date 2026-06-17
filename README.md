@@ -38,7 +38,7 @@ A clean, full-stack web application to track job applications through different 
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/jobtracker.git
+git clone https://github.com/Sushan-Luitel/jobtracker.git
 cd jobtracker
 
 # Start everything (DB + backend + frontend)
@@ -54,7 +54,7 @@ Then open http://localhost:3000.
 ### 1. Clone and prepare
 
 ```bash
-git clone https://github.com/sushan-luitel/jobtracker.git
+git clone https://github.com/Sushan-Luitel/jobtracker.git
 cd jobtracker
 ```
 
